@@ -1,9 +1,11 @@
 package co.edu.uniquindio.model;
 
 public abstract class Vehiculo {
+
     private String placa;
+    private String color;
 
 
-    public abstract double calcularServicio(int horas, Cliente cliente);
+    public abstract double calcularServicioHoras(int horas);
 
 }

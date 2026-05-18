@@ -2,13 +2,10 @@ package co.edu.uniquindio.model;
 
 public class Moto extends Vehiculo {
 
-
-    @Override
-    public  double calcularServicio(int horas, Cliente cliente){
+    public double calcularServicioHoras(int horas){
         double servicio = 0;
 
         return servicio;
 
     }
-
 }

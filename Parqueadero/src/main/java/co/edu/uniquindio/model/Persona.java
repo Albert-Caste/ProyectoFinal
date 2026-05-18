@@ -1,4 +1,6 @@
 package co.edu.uniquindio.model;
 
-public class Espacio {
+public class Persona {
+
+
 }
