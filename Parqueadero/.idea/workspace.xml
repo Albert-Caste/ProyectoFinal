@@ -5,11 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6be7e215-180e-4dc7-8c9e-bbf967d303c0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Admin.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Administrador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Bicicleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Bicicleta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Cilindraje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Espacio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Espacio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/EspacioBicicleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/EspacioBicicleta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/EspacioCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/EspacioCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/EspacioMoto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/EspacioMoto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Moto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Operador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Operador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Parqueadero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Parqueadero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/TipoEspacio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/TipoCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Vehiculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +37,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="60c45f14dd6d729151f7e11e6dc5ef66e4e65803" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -42,6 +59,65 @@
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0001120946188882" />
+      <entry key="S5" value="1.0506779129642547" />
+      <entry key="S10" value="1.5748909641008955" />
+      <entry key="S30" value="4.64140225893307" />
+      <entry key="S60" value="6.989541673688393" />
+      <entry key="M2" value="8.820481553116997" />
+      <entry key="M5" value="11.93022340482916" />
+      <entry key="M10" value="19.693050220690267" />
+      <entry key="M15" value="28.70978183317946" />
+      <entry key="M30" value="51.60373244568863" />
+      <entry key="H1" value="77.14483009407283" />
+      <entry key="H2" value="97.45130441558153" />
+      <entry key="H4" value="110.4827984497216" />
+      <entry key="D1" value="123.21914226021045" />
+      <entry key="W1" value="125.59764807285639" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="9.415036201484781E-70" />
+      <entry key="MS500" value="1.5659522039435324E-14" />
+      <entry key="S2" value="3.864373067475092E-4" />
+      <entry key="S5" value="0.06459995958009275" />
+      <entry key="S10" value="0.4160441261105497" />
+      <entry key="S30" value="1.5329154708898933" />
+      <entry key="S60" value="2.1410451661092758" />
+      <entry key="M2" value="2.536124342533982" />
+      <entry key="M5" value="3.1777578231373376" />
+      <entry key="M10" value="5.0852545375392335" />
+      <entry key="M15" value="7.095356174791657" />
+      <entry key="M30" value="11.70474668818766" />
+      <entry key="H1" value="16.61206413415274" />
+      <entry key="H2" value="20.496755440947418" />
+      <entry key="H4" value="23.000851844249066" />
+      <entry key="D1" value="25.460989347876115" />
+      <entry key="W1" value="25.92196975459" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.03564886612088823" />
+      <entry key="MS500" value="0.5133447728599997" />
+      <entry key="S2" value="0.8466863003647372" />
+      <entry key="S5" value="1.0285930152866227" />
+      <entry key="S10" value="1.8730548587424831" />
+      <entry key="S30" value="6.0234275834100375" />
+      <entry key="S60" value="9.015714260604357" />
+      <entry key="M2" value="11.284160283899388" />
+      <entry key="M5" value="15.068361473695376" />
+      <entry key="M10" value="24.74623962891114" />
+      <entry key="M15" value="35.77552774089645" />
+      <entry key="M30" value="63.2843713602305" />
+      <entry key="H1" value="93.74000717299678" />
+      <entry key="H2" value="117.93774605908388" />
+      <entry key="H4" value="133.47789938665804" />
+      <entry key="D1" value="148.67907685282398" />
+      <entry key="W1" value="151.5194645856324" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -64,7 +140,7 @@
     "git-widget-placeholder": "AlbertCasa",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/saly/Programacion1/ProyectoFinal/Parqueadero",
+    "last_opened_file_path": "/home/saly/Programacion1/Final/ProyectoFinal/Parqueadero",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
