@@ -5,60 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6be7e215-180e-4dc7-8c9e-bbf967d303c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/ProyectoFinal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/src/main/java/co/edu/uniquindio/ejercicio1javafx/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/src/main/java/co/edu/uniquindio/ejercicio1javafx/controller/ClienteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/src/main/java/co/edu/uniquindio/ejercicio1javafx/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/src/main/java/co/edu/uniquindio/ejercicio1javafx/model/Empresa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/src/main/java/co/edu/uniquindio/ejercicio1javafx/viewController/ClienteViewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/src/main/java/co/edu/uniquindio/ejercicio1javafx/viewController/PrimaryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/src/main/resources/co/edu/uniquindio/ejercicio1javafx/crudCliente.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio1JavaFX/src/main/resources/co/edu/uniquindio/ejercicio1javafx/primary.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parqueadero.eml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Administrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Bicicleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Cilindraje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Espacio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/EspacioBicicleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/EspacioCarro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/EspacioMoto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Facturacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/IFuncionAdmin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/IFuncionOperador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/IServicioDia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/IServicioMensual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/IServicioNoche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Operador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Parqueadero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Servicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/TipoCarro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/model/Vehiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +121,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/saly/Programacion1/Final/ProyectoFinal/Parqueadero",
